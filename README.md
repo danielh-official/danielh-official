@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - Work projects involving Laravel and Vue
   - A Notion to Obsidian Syncing Plugin (for Obsidian)
+  - Learning ASP.Net Core
   
 - 📫 How to reach me:
   - My email: dhdevguy@gmail.com
