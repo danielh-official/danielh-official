@@ -6,7 +6,8 @@
   
 - 📫 How to reach me:
   - My email: dhdevguy@gmail.com
+  - My website: https://danielhaven.com
 
 - 💬 Ask me about:
-  - PHP
+  - Laravel/PHP
   - Vue
