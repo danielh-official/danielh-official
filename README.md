@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - A Notion to Obsidian Syncing Plugin (for Obsidian)
+  - An Obsidian MD plugin for working with Notion
   - Learning ASP.Net Core
   
 - 📫 How to reach me:
