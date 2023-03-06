@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-- A sequel Obsidan plugin to Obsidian Things Link w/ Advanced URI Support
-  - [Main Repository](https://github.com/danielh-official/obsidian-things-link-2)
 - An Obsidian MD plugin for working with Notion
   - [Main Repository](https://github.com/danielh-official/notion-x-obsidian-plugin)
+
+### ⏲ Hiatus
+
+- A sequel Obsidan plugin to Obsidian Things Link w/ Advanced URI Support
+  - [Main Repository](https://github.com/danielh-official/obsidian-things-link-2)
   
 ### 📫 How to reach me:
 - My email: dhdevguy@gmail.com
