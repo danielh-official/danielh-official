@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-See my [projects](https://github.com/users/danielh-official/projects/12/views/1) for an overview of what I'm currently working on.
+See my [projects](https://github.com/users/danielh-official/projects/12/views/1) for an overview of my current work.
   
 ### 📫 How to reach me:
-- My email: dhdevguy@gmail.com
 - My website: https://danielhaven.com
 
 ### 💬 Ask me about:
