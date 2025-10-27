@@ -6,6 +6,11 @@ My professional tech stack includes:
 - PHP/Laravel
 - Vue.js
 
+Tech stack I'm exploring include:
+- React
+- Ruby on Rails
+- Swift (for iOS Development)
+
 **Work Status**: Available for employment. Email me at work@danielhavendev.aleeas.com for requests.
 
 Also, check out my [blog](https://danielh-official.github.io/blog/) and [portfolio](https://danielh-official.github.io/about) to learn more about me.
