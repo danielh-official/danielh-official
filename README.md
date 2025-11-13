@@ -33,5 +33,5 @@
 ### GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielh-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=danielh-official&theme=dark)<br/>
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=danielh-official&theme=dark)<br/> -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielh-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
