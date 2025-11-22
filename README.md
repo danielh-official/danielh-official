@@ -3,7 +3,7 @@
 - Software Developer
 - Expertise in Laravel/PHP Full Stack Web Development
 - Based In Manalapan, NJ - United States 🇺🇸
-- Website: https://danielh-official.github.io
+- Website: <a href="https://danielh-official.github.io" target="_blank">https://danielh-official.github.io</a>
 
 ### Stats
 
