@@ -7,8 +7,9 @@
 
 ### Stats
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielh-official&layout=compact&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielh-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+![](https://danielh-official-github-readme-stats-daniel-havens-projects.vercel.app/api/top-langs/?username=danielh-official&layout=compact&theme=algolia)
+
+![](https://danielh-official-github-readme-stats-daniel-havens-projects.vercel.app/api?username=danielh-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ---
 
@@ -16,12 +17,12 @@
 
 <div align="center">
 <a href="https://x.com/danielhaven0" target="_blank">
-<img src="https://img.shields.io/badge/x.com-black?style=for-the-badge" alt=x.com style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/x.com-black?style=for-the-badge" alt="x.com" />
 </a>
 <a href="https://linkedin.com/in/danielh0" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://stackoverflow.com/users/9959347/daniel-haven" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
 </a>
 </div>
