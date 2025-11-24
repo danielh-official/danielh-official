@@ -6,7 +6,7 @@
 - Website: <a href="https://danielh-official.github.io" target="_blank">https://danielh-official.github.io</a>
 
 <details>
-<summary>Stats (WIP)</summary>
+<summary>Stats</summary>
 
 ![](https://danielh-official-github-readme-stat.vercel.app//api/top-langs/?username=danielh-official&layout=compact&theme=algolia)
 
