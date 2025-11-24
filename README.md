@@ -5,16 +5,13 @@
 - Based In Manalapan, NJ - United States 🇺🇸
 - Website: <a href="https://danielh-official.github.io" target="_blank">https://danielh-official.github.io</a>
 
-<details>
-<summary>Stats</summary>
+## Stats
 
 ![](https://danielh-official-github-readme-stat.vercel.app//api/top-langs/?username=danielh-official&layout=compact&theme=algolia)
 
 ![](https://danielh-official-github-readme-stat.vercel.app//api?username=danielh-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-</details>
 
-<details>
-<summary>Socials</summary>
+## Socials
 
 <div align="center">
 <a href="https://x.com/danielhaven0" target="_blank">
@@ -27,5 +24,3 @@
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
 </a>
 </div>
-
-</details>
