@@ -10,8 +10,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/danielh-official?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD)
 [![GitHub Stars](https://img.shields.io/github/stars/danielh-official?logo=github&style=for-the-badge)](https://github.com/CyrisXD)
 
-![](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&layout=compact&theme=transparent)
 ![](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&show=reviews)
+![](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&layout=compact&theme=transparent)
 
 ## Socials
 
