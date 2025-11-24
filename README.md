@@ -7,9 +7,8 @@
 
 ## Stats
 
-![](https://danielh-official-github-readme-stat.vercel.app//api/top-langs/?username=danielh-official&layout=compact&theme=algolia)
-
-![](https://danielh-official-github-readme-stat.vercel.app//api?username=danielh-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&layout=compact&theme=transparent)
+![](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&show=reviews)
 
 ## Socials
 
