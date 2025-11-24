@@ -12,14 +12,6 @@
 
 ## Socials
 
-<div align="center">
-<a href="https://x.com/danielhaven0" target="_blank">
-<img src="https://img.shields.io/badge/x.com-black?style=for-the-badge" alt="x.com" />
-</a>
-<a href="https://linkedin.com/in/danielh0" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://stackoverflow.com/users/9959347/daniel-haven" target="_blank">
-<img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
-</a>
-</div>
+[![x.com](https://img.shields.io/badge/x.com-black?style=for-the-badge)](https://x.com/danielhaven0)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielh0)
+[![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9959347/daniel-haven)
