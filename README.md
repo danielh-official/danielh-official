@@ -7,7 +7,8 @@
 
 ### Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielh-official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielh-official&layout=compact&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielh-official&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ---
 
