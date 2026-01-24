@@ -2,4 +2,4 @@
 
 - Software Developer
 - Expertise in Laravel/PHP Full Stack Web Development
-- Based In Manalapan, NJ - United States 🇺🇸
+- Based In NJ - United States 🇺🇸
