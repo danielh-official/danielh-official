@@ -12,13 +12,13 @@
 
 ## Some of My Open-Source Products
 
-- [Streaks (For YNAB)](https://github.com/danielh-official/streaksforynab) - Track your spending habits w/ YNAB
-- [Bills (For YNAB)](https://github.com/danielh-official/billsforynab) - Track your bills (repeating expenses) w/ YNAB
-- [YNAB API Docs](https://github.com/danielh-official/ynabapidocs) - Scraper for YNAB API Documentation that shows more insights
+- [Streaks (For YNAB)](https://github.com/danielh-official/streaksforynab) - A web application for tracking your spending habits w/ YNAB
+- [Bills (For YNAB)](https://github.com/danielh-official/billsforynab) - A web application for tracking your bills (repeating expenses) w/ YNAB
+- [YNAB API Docs](https://github.com/danielh-official/ynabapidocs) - A web application and scraper for [api.ynab.com](api.ynab.com) that shows more insights for YNAB integrations like platform statistics
 - [YNAB SDK Laravel](https://github.com/danielh-official/ynab-sdk-laravel) - A composer package that provides an SDK for accessing YNAB's API in your Laravel project
 - [anki-yaml-sync](https://github.com/danielh-official/anki-yaml-sync) - A Python CLI tool for bidirectionally syncing YAML files w/ Anki
-- [LaraJobs (Extra)](https://github.com/danielh-official/larajobs-extra) - A scraper for getting the most recent jobs from larajobs.com and allowing more filtering on them (e.g., location)
-- [Markdown Post Writer](https://github.com/danielh-official/markdown-post-writer) - A web app for writing a markdown post with the option to add YAML frontmatter (useful for Git-based static content sites written in frameworks like Jekyll or Tightenco Jigsaw)
+- [LaraJobs (Extra)](https://github.com/danielh-official/larajobs-extra) - A web application and scraper for getting the most recent jobs from larajobs.com and allowing more filtering on them (e.g., location)
+- [Markdown Post Writer](https://github.com/danielh-official/markdown-post-writer) - A web application for writing a markdown post with the option to add YAML frontmatter (useful for Git-based static content sites written in frameworks like Jekyll or Tightenco Jigsaw)
 - [Save to Play](https://github.com/danielh-official/save-to-play) - A Chrome extension for saving YouTube videos to [Play](https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190)
 - [Laravel Database GUI](https://github.com/danielh-official/laravel-database-gui) - A composer package for viewing your local environment's database inside your Laravel web application (simply navigate to "/db")
 - [Sveltekit Route List](https://github.com/danielh-official/sveltekit-route-list) - An NPM package that provides a CLI for viewing your Sveltekit routes (like what Laravel provides with `php artisan route:list`)
