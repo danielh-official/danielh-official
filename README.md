@@ -4,6 +4,11 @@
 - **Professional History**: 3-4+ years of full-stack web development using Laravel PHP / 5+ years overall
 - **Stack Includes (but not limited to)**: Vue, Tailwind, Livewire, React, Inertia, FilamentPHP
 - **Location**: Based in NJ - United States 🇺🇸 (cool w/ remote work)
+- For my professional work, view my [LinkedIn](https://www.linkedin.com/in/danielh0/).
+- I also post on [x.com](https://x.com/danielhaven0).
+
+<details>
+<summary>Click here to learn more about my side project work</summary>
 
 ## Some of My Open-Source Products
 
@@ -42,3 +47,4 @@
 - iOS/macOS app that functions as a companion to todo lists like Reminders and Things - allows setting blocker dependencies between tasks so you know what tasks you can't work on until certain tasks have been logged (should allow easy sharing between this app and Reminders or Things)
 - A site like App Store or Product Hunt that acts as a review site for open source products - useful for letting your open source apps get discovered
 - A Chrome extension for allowing you to place MangaHere-style tsukommis on sites like Mangadex (i.e, you can place text anywhere on a manga page). Might scale to social features, but for now, allowing export so that the tsukomi image can be placed in the comments for the manga chapter
+</details>
