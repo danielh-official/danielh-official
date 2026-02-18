@@ -25,6 +25,7 @@
 - [Save to Play](https://github.com/danielh-official/save-to-play) - A Chrome extension for saving YouTube videos to [Play](https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190)
 - [Laravel Database GUI](https://github.com/danielh-official/laravel-database-gui) - A composer package for viewing your local environment's database inside your Laravel web application (simply navigate to "/db")
 - [Sveltekit Route List](https://github.com/danielh-official/sveltekit-route-list) - An NPM package that provides a CLI for viewing your Sveltekit routes (like what Laravel provides with `php artisan route:list`)
+- [Lifecycle Insights](https://github.com/danielh-official/lifecycle-insights) - A web application for importing [Life Cycle - Track Your Time](https://apps.apple.com/us/app/life-cycle-track-your-time/id1064955217) data to see aggregated present insights (e.g., activity ring for this month - a feature unavailable in the iOS app).
 
 ## Some of My Closed-Source Products
 
