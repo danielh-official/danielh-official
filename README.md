@@ -11,7 +11,7 @@
   - [Pull requests I've opened on GitHub](https://github.com/pulls?q=is%3Apr+author%3Adanielh-official+archived%3Afalse) (requires GitHub account)
 
 <details>
-<summary>🔎 Click here to learn more about my side project work</summary>
+<summary>Click here to learn more about my side project work 🔎</summary>
 
 ## Some of My Open-Source Products
 
