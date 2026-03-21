@@ -4,6 +4,7 @@
 - **Professional History**: 3-4+ years of full-stack web development using Laravel PHP / 5+ years overall
 - **Stack Includes (but not limited to)**: Vue, Tailwind, Livewire, React, Inertia, FilamentPHP
 - **Location**: Based in NJ - United States 🇺🇸 (cool w/ remote work)
+- **Website**: https://danielhaven.com
 - For more on my professional work, view my [LinkedIn](https://www.linkedin.com/in/danielh0/).
 - I also post on [x.com](https://x.com/danielhaven0).
 - Other Links:
