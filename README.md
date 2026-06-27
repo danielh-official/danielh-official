@@ -15,7 +15,7 @@
 ## Stats
 
 ![danielh-official's Stats](https://github-readme-stats.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
-&nbsp;
+
 ![danielh-official's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielh-official&theme=nord&hide_border=false)
 
 ![danielh-official's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielh-official&theme=nord&show_icons=true&hide_border=false&layout=compact)
