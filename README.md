@@ -1,12 +1,21 @@
 # Daniel Haven
 
-- **About Me**: Full-stack web developer that occasionally dabbles in mobile/desktop app development
-- **Professional History**: 3-4+ years of full-stack web development using Laravel PHP / 5+ years overall
-- **Stack Includes (but not limited to)**: Vue, Tailwind, Livewire, React, Inertia, FilamentPHP
-- **Location**: Based in [Manalapan, NJ - United States 🇺🇸](https://maps.app.goo.gl/Y8BeBk8HFcZmRuwu9) (cool w/ remote work)
-- **Portfolio**: [portfolio.danielhaven.com](https://portfolio.danielhaven.com)
-- For more on my professional work, view my [LinkedIn](https://www.linkedin.com/in/danielh0/).
-- I also post on [x.com](https://x.com/danielhaven0).
-- Other Links:
-  - [Code I've pushed on my public repositories most recently on GitHub](https://github.com/danielh-official?tab=repositories&q=&type=source&language=&sort=)
-  - [Pull requests I've opened on GitHub](https://github.com/pulls?q=is%3Apr+author%3Adanielh-official+archived%3Afalse) (requires GitHub account)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielh0/)
+&nbsp;
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](x.com/danielhaven0)
+&nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/danielhaven.bsky.social)
+
+## Known For
+
+- [ThingsTagManager](https://thingstagmanager.com/) &mdash; Swift-native app to manage tags on Things 3 (by Cultured Code)
+
+**All Projects**: [portfolio.danielhaven.com](https://portfolio.danielhaven.com)
+
+## Stats
+
+![danielh-official's Stats](https://github-readme-stats.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
+&nbsp;
+![danielh-official's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielh-official&theme=nord&hide_border=false)
+
+![danielh-official's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielh-official&theme=nord&show_icons=true&hide_border=false&layout=compact)
