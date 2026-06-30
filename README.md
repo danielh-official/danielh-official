@@ -16,6 +16,6 @@
 
 ![danielh-official's Stats](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
 
-![danielh-official's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielh-official&theme=nord&hide_border=false)
+![danielh-official's Streak](https://danielh-official-readme-streak-d2860cb45560.herokuapp.com/?user=danielh-official&theme=nord&hide_border=false)
 
 ![danielh-official's Top Languages](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&theme=nord&show_icons=true&hide_border=false&layout=compact)
