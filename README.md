@@ -6,6 +6,8 @@
 &nbsp;
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/danielhaven.bsky.social)
 
+[![Website](https://img.shields.io/badge/Website-danielhaven.com-black)](https://danielhaven.com)
+
 ## Known For
 
 - [ThingsTagManager](https://thingstagmanager.com/) &mdash; Swift-native app to manage tags on Things 3 (by Cultured Code)
