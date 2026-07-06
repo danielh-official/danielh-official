@@ -16,6 +16,6 @@
 
 ![danielh-official's Stats](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats-iota-steel-30.vercel.app?user=danielh-official)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-iota-steel-30.vercel.app?user=danielh-official&theme=dark)](https://git.io/streak-stats)
 
 ![danielh-official's Top Languages](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&theme=nord&show_icons=true&hide_border=false&layout=compact)
