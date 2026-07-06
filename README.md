@@ -10,7 +10,7 @@
 
 - [ThingsTagManager](https://thingstagmanager.com/) &mdash; Swift-native app to manage tags on Things 3 (by Cultured Code)
 
-**All Projects**: [portfolio.danielhaven.com](https://portfolio.danielhaven.com)
+**All Projects**: [danielhaven.com/portfolio](https://portfolio.danielhaven.com)
 
 ## Stats
 
