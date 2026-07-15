@@ -14,6 +14,8 @@
 
 **All Projects**: [danielhaven.com/portfolio](https://portfolio.danielhaven.com)
 
+**Currently Studying**: [danielhaven.com/studying](https://danielhaven.com/studying)
+
 ## Stats
 
 ![danielh-official's Stats](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
