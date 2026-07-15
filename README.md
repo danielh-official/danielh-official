@@ -16,7 +16,13 @@ For 4+ years, I've been coding professionally in PHP (Laravel) and TypeScript/Ja
 
 While I'm still open to PHP-related roles, I've been moving more toward backend engineering in tech stacks that are closer to enterprise (e.g., Java, Go) and AI engineering (e.g. Python), with a primary focus on Python. My long-term goal for Python is to leverage its AI-native ecosystem, so that I can improve my ability to deliver AI-integrated products at scale.
 
-## You have any side projects?
+### My Volunteer Work
+
+I engage in volunteer work frequently.
+
+For instance, I have helped Sts. Peter and Paul Orthodox Church (South River, NJ) with modernizing their website [saintpeterandpaul.org](https://www.saintpeterandpaul.org/) (built on Orthodox Web Solutions CMS).
+
+## Do you have any side projects?
 
 ### Apple Ecosystem
 
