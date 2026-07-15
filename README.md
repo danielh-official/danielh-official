@@ -8,6 +8,12 @@
 
 [![Website](https://img.shields.io/badge/Website-danielhaven.com-black)](https://danielhaven.com)
 
+---
+
+**TL;DR**: Backend Engineer (Python)
+
+---
+
 ## Where have you worked?
 
 For 4+ years, I've been coding professionally in PHP (Laravel) and TypeScript/JavaScript as a full-stack engineer working with different combinations of frontends (e.g., Blade, Vue).
