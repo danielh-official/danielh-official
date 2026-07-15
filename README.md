@@ -8,11 +8,19 @@
 
 [![Website](https://img.shields.io/badge/Website-danielhaven.com-black)](https://danielhaven.com)
 
+## Where have you worked?
+
 For 4+ years, I've been coding professionally in PHP (Laravel) and TypeScript/JavaScript as a full-stack engineer working with different combinations of frontends (e.g., Blade, Vue).
+
+## Where are you looking to work?
 
 While I'm still open to PHP-related roles, I've been moving more toward backend engineering in tech stacks that are closer to enterprise (e.g., Java, Go) and AI engineering (e.g. Python), with a primary focus on Python. My long-term goal for Python is to leverage its AI-native ecosystem, so that I can improve my ability to deliver AI-integrated products at scale.
 
-Also, because I'm primarily in the Apple ecosystem, I've worked on some iOS/macOS apps to improve niche processes.
+## You have any side projects?
+
+### Apple Ecosystem
+
+Because I'm primarily in the Apple ecosystem, I've worked on some iOS/macOS apps to improve niche processes.
 
 Here are some of them:
 
@@ -23,6 +31,8 @@ Here are some of them:
   - [Visit Web Page](https://danielhaven.com/portfolio/calslashd)
   - [Download on App Store](https://apps.apple.com/us/app/cal-d-calorie-countdown/id6784985279)
 
+### Chrome Extensions
+
 I also like building Chrome extensions to improve my browsing experience on a variety of sites, like:
 
 - AO3 Hider &mdash; Hide AO3 works by tag, author, fandom, rating, and more.
@@ -32,12 +42,21 @@ I also like building Chrome extensions to improve my browsing experience on a va
 
 Click here to see a full listing of my chrome extensions: [danielhaven.com/portfolio/category/chrome-extension](https://danielhaven.com/portfolio/category/chrome-extension/)
 
-> [!NOTE]
-> I credit AI-assisted engineering/learning (with tools like Claude Code and GitHub Copilot) for helping me to bridge the gap between differents languages and stacks, and I credit my existing experience and knowledge (as a software engineer of 4+ years and a techie of 6+ years) for being able to learn and apply common patterns across all these different languages, stacks and frameworks.
+### Static Websites
 
----
+For static websites, I'm a real fan of the _Astro x Cloudflare_ combo, which I leverage for my [danielhaven.com](https://danielhaven.com) personal website alongside a few others.
 
-Outside of coding, I'm working on becomming certified in AWS, alongside improving my working knowledge of distributed systems and system design skills.
+## Note on AI Usage
+
+I credit AI-assisted engineering/learning (with tools like Claude Code and GitHub Copilot) for helping me to bridge the gap between differents languages and stacks.
+
+I credit my existing experience and knowledge (as a software engineer of 4+ years and a techie of 6+ years) for being able to learn and apply common patterns across all these different languages, stacks and frameworks.
+
+## Any tech outside of coding?
+
+Outside of coding, I'm working on becomming certified in Amazon Web Services (AWS), alongside improving my working knowledge of distributed systems and system design skills.
+
+I have an exam coming toward the beginning of August for [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/). Wish me luck!
 
 ## Other Links
 
