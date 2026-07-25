@@ -10,7 +10,10 @@
 
 ---
 
-**TL;DR**: Goal: Backend Engineer (Python, Go, Java, etc.) / Recent: Full-Stack Developer (PHP) / Still Open to PHP Roles
+**TL;DR**:
+- Goal: Backend Engineer (Python, Go, Java, etc.)
+- Recent: Full-Stack Developer (PHP)
+- Still Open to PHP Roles
 
 ---
 
