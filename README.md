@@ -39,14 +39,14 @@ Because I'm primarily in the Apple ecosystem, I've worked on some iOS/macOS apps
 
 Here are some of them:
 
-- ThingsTagManager
-  - Mac OS app to manage tags on Things 3 (by Cultured Code)
-  - [Visit Website](https://thingstagmanager.com/)
-  - [Direct Download](https://thingstagmanager.com/download)
 - Cal/d &mdash; Calorie Coutndown
   - Calorie tracker for people who hate intermittent fasting and strict calorie limits
   - [Visit Web Page](https://danielhaven.com/portfolio/calslashd)
   - [Download on App Store](https://apps.apple.com/us/app/cal-d-calorie-countdown/id6784985279)
+- ThingsTagManager
+  - Mac OS app to manage tags on Things 3 (by Cultured Code)
+  - [Visit Website](https://thingstagmanager.com/)
+  - [Direct Download](https://thingstagmanager.com/download)
 
 ### Chrome Extensions
 
