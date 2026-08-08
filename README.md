@@ -73,7 +73,9 @@ I credit my existing experience and knowledge (as a software engineer of 4+ year
 
 Outside of coding, I'm working on getting certified in Amazon Web Services (AWS), alongside improving my working knowledge of distributed systems and system design skills.
 
-I have an exam coming toward the beginning of August for [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/). Wish me luck!
+I became a certified [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) in August 2026. I will be looking into more certs (e.g., Developer Associate) to further my education.
+
+I've also been using NextWork's [AWS Cloud Practitioner Roadmap](https://nextwork.ai/explore/learnlists/aws-cloud-practitioner-roadmap) for hands-on learning.
 
 ## Other Links
 
