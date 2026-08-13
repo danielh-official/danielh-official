@@ -19,7 +19,7 @@
 
 ## Where have you worked?
 
-For 4+ years, I've been coding professionally in PHP (Laravel) and TypeScript/JavaScript as a full-stack engineer working with different combinations of frontends (e.g., Blade, Vue).
+For 5+ years, I've been coding professionally in PHP (Laravel) and TypeScript/JavaScript as a full-stack engineer working with different combinations of frontends (e.g., Blade, Vue).
 
 ## Where are you looking to work?
 
