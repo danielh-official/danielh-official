@@ -79,12 +79,13 @@ I've also been using NextWork's [AWS Cloud Practitioner Roadmap](https://nextwor
 
 ## Other Links
 
-| Label               | Link                                                                   |
-| ------------------- | ---------------------------------------------------------------------- |
-| What I'm Working On | [danielhaven.com/portfolio](https://danielhaven.com/portfolio)         |
-| What I'm Studying   | [danielhaven.com/studying](https://danielhaven.com/studying)           |
-| boot.dev Profile    | [boot.dev/u/danielh-official](https://www.boot.dev/u/danielh-official) |
-| LeetCode Profile    | [leetcode.com/u/danielhaven](https://leetcode.com/u/danielhaven/)      |
+| Label               | Link                                                                                                           |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- |
+| What I'm Working On | [danielhaven.com/portfolio](https://danielhaven.com/portfolio)                                                 |
+| What I'm Studying   | [danielhaven.com/studying](https://danielhaven.com/studying)                                                   |
+| boot.dev Profile    | [boot.dev/u/danielh-official](https://www.boot.dev/u/danielh-official)                                         |
+| LeetCode Profile    | [leetcode.com/u/danielhaven](https://leetcode.com/u/danielhaven/)                                              |
+| NextWork Profile    | [nextwork.com/portfolio/surprised_navy_agile_emu](https://nextwork.ai/portfolio/surprised_navy_agile_emu)      |
 
 ## Stats
 
