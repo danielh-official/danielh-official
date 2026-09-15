@@ -17,6 +17,14 @@
 
 ---
 
+## Stats
+
+![danielh-official's Stats](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats-iota-steel-30.vercel.app?user=danielh-official&theme=dark)](https://git.io/streak-stats)
+
+![danielh-official's Top Languages](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&theme=nord&show_icons=true&hide_border=false&layout=compact)
+
 ## Where have you worked?
 
 For 5+ years, I've been coding professionally in PHP (Laravel) and TypeScript/JavaScript as a full-stack engineer working with different combinations of frontends (e.g., Blade, Vue).
@@ -86,11 +94,3 @@ I've also been using NextWork's [AWS Cloud Practitioner Roadmap](https://nextwor
 | boot.dev Profile    | [boot.dev/u/danielh-official](https://www.boot.dev/u/danielh-official)                                         |
 | LeetCode Profile    | [leetcode.com/u/danielhaven](https://leetcode.com/u/danielhaven/)                                              |
 | NextWork Profile    | [nextwork.com/portfolio/surprised_navy_agile_emu](https://nextwork.ai/portfolio/surprised_navy_agile_emu)      |
-
-## Stats
-
-![danielh-official's Stats](https://danielh-official-github-readme-stat.vercel.app/api?username=danielh-official&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats-iota-steel-30.vercel.app?user=danielh-official&theme=dark)](https://git.io/streak-stats)
-
-![danielh-official's Top Languages](https://danielh-official-github-readme-stat.vercel.app/api/top-langs/?username=danielh-official&theme=nord&show_icons=true&hide_border=false&layout=compact)
