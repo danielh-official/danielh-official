@@ -11,7 +11,7 @@
 ---
 
 **TL;DR**:
-- **Goal**: Backend Engineer (Python, Go, Java, etc.)
+- **Skills Working On**: Python, Go, Java, etc. | Cloud Computing w/ Amazon Web Services (AWS) | AI Engineering
 - **Recent**: Full-Stack Developer (PHP)
 - Still Open to PHP Roles
 
